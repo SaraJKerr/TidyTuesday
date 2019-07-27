@@ -1,1 +1,6 @@
-"# TidyTuesday" 
+# TidyTuesday
+
+This repo contains my code for the __Tidy Tuesday__ project from __R4DS__, with the aim of experimenting with different types of visualisation.
+
+## Week 1 - 23 July 2019
+My first week of TidyTuesday uses the __Wildlife Strikes__ dataset from the _FAA_. 
