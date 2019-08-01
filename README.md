@@ -10,4 +10,4 @@ For this visualisation I created a chloropleth map. This indicates that the sout
 ## Week 2 - 31 July 2019
 The dataset for this week of TidyTuesday is the __Video Games__ dataset from Liza Wood via _Steam Spy_ (blog available from https://cruiseofdimensionality.home.blog/2019/07/24/pc-video-games-we-still-play/).
 
-For this visualisation I wanted to create a circular plot.
+This week I wanted to create two different types of visualisation. Firsly I wanted to try out the Economist theme from ggthemes. For the next visualisation I chose to experiment with a circular bar plot.
