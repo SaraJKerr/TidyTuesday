@@ -23,4 +23,4 @@ This week I wanted to create two different types of visualisation. Firsly I want
 ## Week 3 - 13 August 2019
 This week's dataset is a throwback to my undergraduate degree in Ancient History - __Roman Emperors__. The dataset is from _Wikipedia_ and _Zonination_. I chose to explore creating an interactive treemap, using the _treemap_, _d3treeR_, and _htmlwidgets_ packages. 
 
-![Emperors](http://sarajkerr.com/Dataviz/TidyTuesday/EmperorTreemap.html)
+The interactive plot can be found here: http://sarajkerr.com/Dataviz/TidyTuesday/EmperorTreemap.html
