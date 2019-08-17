@@ -29,7 +29,7 @@ emp_tree <-  treemap(emp_death,
 emp_int <- d3tree(emp_tree,  rootname = "Emperors")
 
 library(htmlwidgets)
-saveWidget(emp_int, file="interactiveTreemap.html", selfcontained = T)
+saveWidget(emp_int, file="EmperorTreemap.html", selfcontained = T)
 
 
 
