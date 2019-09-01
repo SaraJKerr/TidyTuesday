@@ -28,6 +28,6 @@ The interactive plot can be found here: http://sarajkerr.com/Dataviz/TidyTuesday
 ## Week 4 - 20 August 2019
 This week's dataset is all about nuclear explosions from the _Stockholm International Peace Research Institute_. I wanted to take the interactive side a little further so decided to create a shiny app with an interactive map showing locations, and a histogram showing the number of explosions per year. A drop down was included to allow users to drill down into the individual countries, and markers were coloured using the upper yield in kilotons, split at 20 kt (1st quartile), 330 kt (mean), and above 330 kt.
 
-![Wildlife Strikes](https://github.com/SaraJKerr/TidyTuesday/blob/master/Images/Images of Nukes app.jpeg)
+![Image of Nukes App](https://github.com/SaraJKerr/TidyTuesday/blob/master/Images/Images%20of%20Nukes%20app.jpeg)
 
 The shiny app can be found here: http://sarajkerr7.shinyapps.io/app_nukes
