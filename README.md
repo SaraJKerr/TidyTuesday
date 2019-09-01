@@ -24,3 +24,8 @@ This week I wanted to create two different types of visualisation. Firsly I want
 This week's dataset is a throwback to my undergraduate degree in Ancient History - __Roman Emperors__. The dataset is from _Wikipedia_ and _Zonination_. I chose to explore creating an interactive treemap, using the _treemap_, _d3treeR_, and _htmlwidgets_ packages. 
 
 The interactive plot can be found here: http://sarajkerr.com/Dataviz/TidyTuesday/EmperorTreemap.html
+
+## Week 4 - 20 August 2019
+This week's dataset is all about nuclear explosions from the _Stockholm International Peace Research Institute_. I wanted to take the interactive side a little further so decided to create a shiny app with an interactive map showing locations, and a histogram showing the number of explosions per year. A drop down was included to allow users to drill down into the individual countries, and markers were coloured using the upper yield in kilotons, split at 20 kt (1st quartile), 330 kt (mean), and above 330 kt.
+
+The shiny app can be found here: http://sarajkerr7.shinyapps.io/app_nukes
